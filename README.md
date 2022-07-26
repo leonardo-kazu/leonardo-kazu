@@ -1,16 +1,12 @@
-### Hi there 👋
+- 👋 Hi, I’m @leonardo-kazu
+- 👀 I’m interested in everything until now :0 still learning
+- 🌱 I'm currently learning crypthography and AI
+- 💞️ I’m looking to collaborate on well anything that someone is interested in teaching me,
+  i don't know a lot, but i'm quick learner. :D
+- 📫 Reach me here --> 9vjb73uqj@mozmail.com <-- Why not?
 
-<!--
-**leonardo-kazu/leonardo-kazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---
+leonardo-kazu/leonardo-kazu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
