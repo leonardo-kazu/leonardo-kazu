@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=800&height=200&lines=Hi+i'm+Leonardo-Kazu;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&pause=1000&center=true&width=800&height=200&lines=Hi+i'm+Leonardo-Kazu;Welcome+to+my+profile!">
 </p>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
 ### 📈 &nbsp;Contribution Statistics
@@ -17,13 +17,21 @@
 <br>
 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardo-kazu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![leonardo-kazu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardo-kazu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&lineCount=3&theme=catppuccin_mocha&width=1000&bg=%25231e1e2e&badge=%2523181825&border=%25236c7086&titleColor=%252394e2d5&line1=nodedotjs%2Cnode.js%2Cauto%3Btypescript%2Ctypescript%2Cauto%3Breact%2Creact%2Cauto%3Bnextdotjs%2Cnext.js%2Cffffff%3Bexpress%2Cexpress.js%2Cffffff%3B&line2=python%2Cpython%2Cauto%3Bjupyter%2Cjupyter%2Cauto%3Bfastapi%2Cfastapi%2Cauto%3Bflask%2Cflask%2Cffffff%3B&line3=docker%2Cdocker%2Cauto%3Bamazonaws%2Caws%2Cff7e32%3Bgooglecloud%2Cgcp%2Cauto%3B" alt="Tech Stack" />
+</p>
+  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+  
 ### :link: &nbsp;Contact Info
 
 <p align="center">
